@@ -23,7 +23,7 @@ A Python utility for recovering tabs and browsing history from Chrome and Vivald
 ```bash
 git clone https://github.com/chris17453/browser-tab-recovery.git
 cd browser-tab-recovery
-```your
+```
 
 2. Make the script executable:
 
